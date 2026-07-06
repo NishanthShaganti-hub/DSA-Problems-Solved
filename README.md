@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
