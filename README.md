@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Queue
 |  |
