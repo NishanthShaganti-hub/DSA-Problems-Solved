@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0189-rotate-array) |
+| [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
