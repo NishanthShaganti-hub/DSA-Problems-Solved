@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0198-house-robber) |
 ## Matrix
 |  |
 | ------- |
