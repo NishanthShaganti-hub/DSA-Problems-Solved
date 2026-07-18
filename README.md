@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0189-rotate-array) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
