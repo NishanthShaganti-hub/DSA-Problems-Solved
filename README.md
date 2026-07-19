@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
