@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
