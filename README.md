@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
