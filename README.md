@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
