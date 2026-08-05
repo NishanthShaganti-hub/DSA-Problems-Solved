@@ -176,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
