@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3310-remove-methods-from-project) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
