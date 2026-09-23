@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3731-find-missing-elements) |
 ## Game Theory
@@ -265,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
