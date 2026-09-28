@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
