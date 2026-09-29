@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0051-n-queens) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0179-largest-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
