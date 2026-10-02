@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0071-simplify-path) |
