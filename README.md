@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NishanthShaganti-hub/Problems-solved-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NishanthShaganti-hub/DSA-Problems-Solved/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
